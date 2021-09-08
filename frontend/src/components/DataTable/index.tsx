@@ -20,6 +20,7 @@ return(
                 <td>15017.00</td>
             </tr>
         </tbody>
+        
     </table>
 </div>
 );
