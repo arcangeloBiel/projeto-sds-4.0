@@ -23,7 +23,12 @@ const mockData = {
 };
     return(
         <div>
-  
+   {/*  <Chart 
+    options={{ ...options, xaxis: mockData.labels}}
+    series={mockData.series}
+    type="bar"
+    height="240"
+    /> */}
     </div>
 );
 }
