@@ -23,7 +23,7 @@ const mockData = {
 };
     return(
         <div>
-   
+  
     </div>
 );
 }
