@@ -1,12 +1,10 @@
-
-import DataTable from './components/DataTable';
-import Routes from './Routes';
+import Routes from "./Routes";
 
 function App() {
   return (
     <div>
-     <Routes />
-   </div>
+      <Routes />
+    </div>
   );
 }
 
